@@ -2038,14 +2038,14 @@ textarea.form-control {
   .progress-container.progress-neutral .progress-badge {
     color: #FFFFFF; }
   .progress-container.progress-primary .progress {
-    background: rgba(55, 140, 63, 0.4); }
+    background: rgba(48, 147, 171, 0.3); }
   .progress-container.progress-primary .progress-bar {
     background: #3a7887; }
   .progress-container.progress-primary .progress-value,
   .progress-container.progress-primary .progress-badge {
     color: #3a7887; }
   .progress-container.progress-info .progress {
-    background: rgba(44, 168, 255, 0.3); }
+    background: rgba(48, 147, 171, 0.3); }
   .progress-container.progress-info .progress-bar {
     background: #2CA8FF; }
   .progress-container.progress-info .progress-value,
@@ -3578,7 +3578,7 @@ Created using IcoMoon - icomoon.io
   margin-top: 35px; }
 
 .profile-page .page-header {
-  min-height: 550px; }
+  min-height: 450px; }
 
 .profile-page .profile-container {
   color: #FFFFFF; }
@@ -5153,7 +5153,7 @@ Created using IcoMoon - icomoon.io
 
 .cc-profile-image a:before {
   content: "";
-  border: 15px solid rgba(55, 140, 63, 0.6);
+  border: 15px solid rgba(48, 147, 171, 0.8);
   border-radius: 50%;
   height: 180px;
   width: 180px;
